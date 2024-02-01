@@ -4,11 +4,11 @@ Welcome to the Java Learning Repository! Here you will find a collection of Java
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Files](#files)
-3. [Learning Notes](#learning-notes)
-4. [Contributing](#contributing)
-5. [Feedback](#feedback)
+1. [Introduction](#introduction) 🌟
+2. [Files](#files) 📂
+3. [Learning Notes](#learning-notes) 📝
+4. [Contributing](#contributing) 🤝
+5. [Feedback](#feedback) 🚀
 
 ## Introduction
 
@@ -28,6 +28,6 @@ If you'd like to contribute to this repository, you're more than welcome! Whethe
 
 ## Feedback
 
-Your feedback is crucial in improving this repository. If you have any suggestions, issues, or just want to say hi, feel free to open an [issue](https://github.com/yourusername/javalearningrepo/issues) or reach out via email.
+Your feedback is crucial in improving this repository. If you have any suggestions, issues, or just want to say hi, feel free to open an [(https://github.com/Harshbhavsar2004/java-nptl)] or reach out via email.
 
 Happy coding! 🚀
